@@ -8,7 +8,7 @@
 
 ## Projetos
 - [Churn Analysis](https://github.com/MatheusPfeifer/Churn-Analysis)
-
+- [Credit Card Fraud Detection](https://github.com/MatheusPfeifer/Credit-Card-Fraud-Detection)
 ## Contato
 Qualquer dúvida ou contato para conversar sobre Data Science, só me chamar no linkedin [Linkedin Matheus](https://www.linkedin.com/in/matheus-pfeifer-693284145/)
 
