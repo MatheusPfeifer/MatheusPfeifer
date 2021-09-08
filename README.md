@@ -9,6 +9,7 @@
 ## Projetos
 - [Churn Analysis](https://github.com/MatheusPfeifer/Churn-Analysis)
 - [Credit Card Fraud Detection](https://github.com/MatheusPfeifer/Credit-Card-Fraud-Detection)
+- [Dashboard Vacinação Covid-19 Minas Gerais](https://github.com/MatheusPfeifer/Analise-Vacinacao-Covid-19-Minas-Gerais)
 ## Contato
 Qualquer dúvida ou contato para conversar sobre Data Science, só me chamar no linkedin [Matheus Pfeifer](https://www.linkedin.com/in/matheuspfeifer/)
 
